@@ -1,6 +1,6 @@
 # InferSent
 
-*InferSent* was used as a *sentence embeddings* method that provides semantic representations for English sentences. It is trained on natural language inference data and generalizes well to many different tasks.
+*InferSent* was used as a *sentence embedding* method that provides semantic representations for English sentences. It is trained on natural language inference data and generalizes well to many different tasks.
 For more informations, see the [original InferSent repository](https://github.com/facebookresearch/InferSent) .
 
 # Tika
