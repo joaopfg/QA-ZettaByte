@@ -5,5 +5,5 @@ For more informations, see the [original InferSent repository](https://github.co
 
 # Tika
 
-*Tika* was used to grab method the text from .pdf files. It also gives a support to many others files formats.
+*Tika* was used to grab text from .pdf files. It also gives a support to many others files formats.
 For more informations, see the [original Tika repository](https://github.com/chrismattmann/tika-python) .
